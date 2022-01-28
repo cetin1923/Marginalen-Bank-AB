@@ -16,9 +16,7 @@ import java.util.List;
 public abstract class  BasePage {
 
     public BasePage() {
-
         PageFactory.initElements(Driver.get(), this);
-
     }
 
     @FindBy(xpath = "//footer/button[contains(text(),'Acceptera alla')]")

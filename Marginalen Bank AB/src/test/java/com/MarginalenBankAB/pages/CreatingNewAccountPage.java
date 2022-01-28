@@ -10,6 +10,8 @@ import java.util.List;
 
 public class CreatingNewAccountPage extends BasePage {
 
+
+
     @FindBy(xpath = "(//a[contains(text(),'Spara')])[1]")
     public WebElement SparaButton;
 
