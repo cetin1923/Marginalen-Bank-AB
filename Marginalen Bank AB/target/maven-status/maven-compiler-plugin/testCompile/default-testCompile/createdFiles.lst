@@ -1,0 +1,13 @@
+com/MarginalenBankAB/utilities/ConfigurationReader.class
+com/MarginalenBankAB/pages/BasePage.class
+com/MarginalenBankAB/utilities/BrowserUtils$1.class
+com/MarginalenBankAB/pages/CreatingNewAccountPage.class
+com/MarginalenBankAB/step_definitions/LoginStepDefs.class
+com/MarginalenBankAB/step_definitions/Hooks.class
+com/MarginalenBankAB/utilities/Driver.class
+com/MarginalenBankAB/step_definitions/CreateANewAccountStepDefs.class
+com/APITest/SampleAPITest.class
+com/MarginalenBankAB/runners/CukesRunner.class
+com/MarginalenBankAB/pages/LoginPage.class
+com/MarginalenBankAB/utilities/BrowserUtils.class
+com/APITest/SampleAPITest2.class

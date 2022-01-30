@@ -1,7 +1,6 @@
 package com.MarginalenBankAB.step_definitions;
 
 import com.MarginalenBankAB.pages.CreatingNewAccountPage;
-import com.MarginalenBankAB.pages.LoginPage;
 import com.MarginalenBankAB.utilities.BrowserUtils;
 import com.MarginalenBankAB.utilities.ConfigurationReader;
 import com.MarginalenBankAB.utilities.Driver;
@@ -10,11 +9,9 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.junit.Assert;
-import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
-import java.util.List;
 import java.util.Random;
 
 public class CreateANewAccountStepDefs {
